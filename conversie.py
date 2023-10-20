@@ -18,3 +18,5 @@ promovat = notaExamen >= 5 and notaFinala >=5
 
 print('Disciplina promovata:', promovat)
 print('Media: ', notaFinala)
+
+print("github")
