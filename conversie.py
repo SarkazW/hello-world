@@ -21,3 +21,6 @@ print('Media: ', notaFinala)
 
 print("github")
 print("test")
+print("commit")
+
+print("mask")
