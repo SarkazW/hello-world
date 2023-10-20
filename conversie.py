@@ -20,3 +20,4 @@ print('Disciplina promovata:', promovat)
 print('Media: ', notaFinala)
 
 print("github")
+print("test")
